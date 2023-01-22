@@ -1,0 +1,17 @@
+{
+    "name": "tayyab/crud_using_library",
+    "autoload": {
+        "psr-4": {
+            "Tayyab\\CrudUsingLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tayyab Ali",
+            "email": "mushtaqahmeda680@gmail.com"
+        }
+    ],
+    "require": {
+        "mevdschee/php-crud-api": "^2.14"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "tayyab/demo",
+    "autoload": {
+        "psr-4": {
+            "classes\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "demo"
+        }
+    ],
+    "require": {}
+}

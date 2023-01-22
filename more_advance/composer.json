@@ -1,0 +1,14 @@
+{
+    "name": "tayyab/more_advance",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "tayyab"
+        }
+    ],
+    "require": {}
+}
